@@ -1,0 +1,23 @@
+{
+  "file": "./models/playlists.json",
+  "playlists": [
+    {
+      "title": "homer's playlist",
+      "_id": "3d059fec-65b2-43a2-a8cd-071cc8efa6af"
+    },
+    {
+      "title": "marge's playlist",
+      "_id": "2d272f72-d7ec-4a39-afa7-bc86e2ca628b"
+    },
+    {
+      "title": "homers' playlists",
+      "userid": "8cd22808-523d-4d2e-bf83-e6e6bd79ea37",
+      "_id": "1be921e3-e231-4cd1-946b-33c4d45c21f5"
+    },
+    {
+      "title": "marge's playlist",
+      "userid": "4a49b920-0b76-4e62-8734-5a11dcfdc9fb",
+      "_id": "780f7b53-a755-4bb2-a197-e1b1d84e3941"
+    }
+  ]
+}

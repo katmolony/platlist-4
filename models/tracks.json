@@ -1,0 +1,33 @@
+{
+  "file": "./models/tracks.json",
+  "tracks": [
+    {
+      "title": "homer demo",
+      "artist": "homer",
+      "duration": 23,
+      "_id": "e59d455e-8afc-476c-80da-308f8263707d",
+      "playlistid": "3d059fec-65b2-43a2-a8cd-071cc8efa6af"
+    },
+    {
+      "title": "marge demo",
+      "artist": "marge",
+      "duration": 13,
+      "_id": "2ac1e02a-947e-4fca-a877-ac8a3c5b81f0",
+      "playlistid": "2d272f72-d7ec-4a39-afa7-bc86e2ca628b"
+    },
+    {
+      "title": "homer demo",
+      "artist": "homer",
+      "duration": 23,
+      "_id": "d1715bac-60da-4ae0-9a2d-dee36e3f67d6",
+      "playlistid": "1be921e3-e231-4cd1-946b-33c4d45c21f5"
+    },
+    {
+      "title": "marge demo",
+      "artist": "marge",
+      "duration": 13,
+      "_id": "6cbb4492-0fa9-4f36-9535-26308cf6069c",
+      "playlistid": "780f7b53-a755-4bb2-a197-e1b1d84e3941"
+    }
+  ]
+}
