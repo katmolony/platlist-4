@@ -1,2 +1,3 @@
-# Playlist 0.3.0
-# platlist-4
+# Welcome to Playlist 6
+
+# Version 6 of the playlist application
